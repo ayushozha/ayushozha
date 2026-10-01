@@ -56,14 +56,14 @@ An open-source bridge between AI assistants and Adobe Premiere Pro, for supporte
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ayushozha/markdown-viewer"><img src="./assets/projects/markdown.svg" width="100%" alt="Illustration of a Markdown document with math and diagrams" /></a>
-<h3><a href="https://github.com/ayushozha/markdown-viewer">Markdown Viewer ↗</a></h3>
+<h3><a href="https://github.com/ayushozha/markdown-viewer">Markdown Viewer</a></h3>
 <p>Markdown preview and editing with math, diagrams, and AI rewriting. Published on the VS Code Marketplace.</p>
 <p><code>TypeScript</code> <code>VS Code</code> <code>Electron</code></p>
 <p><a href="https://github.com/ayushozha/markdown-viewer">Source</a> &nbsp; / &nbsp; <a href="https://marketplace.visualstudio.com/items?itemName=ayushojha.markdown-viewer-enhanced">Install →</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ayushozha/analytics-service"><img src="./assets/projects/analytics.svg" width="100%" alt="Illustration of analytics charts and a data pipeline" /></a>
-<h3><a href="https://github.com/ayushozha/analytics-service">Pulse Analytics ↗</a></h3>
+<h3><a href="https://github.com/ayushozha/analytics-service">Pulse Analytics</a></h3>
 <p>Self-hosted web analytics with a Rust API, a dashboard, and a TypeScript SDK.</p>
 <p><code>Rust</code> <code>PostgreSQL</code> <code>Redis</code></p>
 <p><a href="https://github.com/ayushozha/analytics-service">Source</a> &nbsp; / &nbsp; <a href="https://github.com/ayushozha/analytics-service#readme">Architecture →</a></p>
@@ -72,14 +72,14 @@ An open-source bridge between AI assistants and Adobe Premiere Pro, for supporte
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/ayushozha/code-arena"><img src="./assets/projects/code-arena.svg" width="100%" alt="Illustration of a three-dimensional code-review arena" /></a>
-<h3><a href="https://github.com/ayushozha/code-arena">Code Coliseum ↗</a></h3>
+<h3><a href="https://github.com/ayushozha/code-arena">Code Coliseum</a></h3>
 <p>An experimental 3D interface for AI code review, repair, and verification.</p>
 <p><code>TypeScript</code> <code>React</code> <code>Three.js</code></p>
 <p><a href="https://github.com/ayushozha/code-arena">Source</a> &nbsp; / &nbsp; <a href="https://github.com/ayushozha/code-arena#readme">Explore →</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/ayushozha/lifegraph"><img src="./assets/projects/lifegraph.svg" width="100%" alt="Illustration of connected decisions in a planning graph" /></a>
-<h3><a href="https://github.com/ayushozha/lifegraph">LifeGraph ↗</a></h3>
+<h3><a href="https://github.com/ayushozha/lifegraph">LifeGraph</a></h3>
 <p>A graph-based planning prototype that explores how changing constraints affect your next decision.</p>
 <p><code>Neo4j</code> <code>React</code> <code>Express</code></p>
 <p><a href="https://github.com/ayushozha/lifegraph">Source</a> &nbsp; / &nbsp; <a href="https://github.com/ayushozha/lifegraph#readme">Explore →</a></p>
