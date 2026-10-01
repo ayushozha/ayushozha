@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Ayush Ojha — I build tools that do the work.</title>
+  <desc id="desc">A dark, minimal profile banner for Ayush Ojha. The text reads AI systems, developer tools, product experiments. A connected diagram of inputs, a processor, and outputs appears on the right in mint and amber.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17211f"/>
+      <stop offset="1" stop-color="#0f1716"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#82f5c5" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#82f5c5" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#d4e8df" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+
+  <!-- Quiet architectural frame. -->
+  <rect width="1280" height="420" rx="12" fill="url(#background)"/>
+  <path d="M80 53H1200M80 367H1200" stroke="#b0c8bc" stroke-opacity=".2"/>
+  <path d="M80 53H128" stroke="#9cf4c7" stroke-width="2"/>
+  <path d="M1152 367H1200" stroke="#e7b873" stroke-width="2"/>
+
+  <!-- The identity stays large enough to hold its own in a README. -->
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="80" y="107" fill="#a6beaf" font-size="15" font-weight="600" letter-spacing="2.05">AI SYSTEMS / DEVELOPER TOOLS / PRODUCT EXPERIMENTS</text>
+    <text x="75" y="218" fill="#f4f0e5" font-size="94" font-weight="700" letter-spacing="-4.5">AYUSH OJHA</text>
+    <text x="80" y="284" fill="#e3e6dc" font-size="34" font-weight="400" letter-spacing="-.65">I build tools that do the work.</text>
+  </g>
+
+  <!-- An original, intentionally abstract tool pipeline. -->
+  <g aria-hidden="true">
+    <circle cx="1037" cy="211" r="199" fill="url(#glow)"/>
+    <rect x="836" y="71" width="364" height="278" fill="url(#grid)"/>
+
+    <!-- Paths route through the central tool and resolve into outputs. -->
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M881 112H925Q941 112 941 128V161" stroke="#819a8d" stroke-width="1.5"/>
+      <path d="M873 291H917Q941 291 941 267V251" stroke="#819a8d" stroke-width="1.5"/>
+      <path d="M1031 184H1095Q1113 184 1113 166V142H1161" stroke="#94edc2" stroke-width="2"/>
+      <path d="M1031 228H1081Q1099 228 1099 246V291H1153" stroke="#819a8d" stroke-width="1.5"/>
+      <path d="M987 161V103H1025" stroke="#e7b873" stroke-width="1.5"/>
+    </g>
+
+    <!-- Input one: stacked source material. -->
+    <g fill="#17221e" stroke="#879e92" stroke-width="1.4">
+      <rect x="851" y="87" width="42" height="42" rx="7"/>
+      <rect x="843" y="95" width="42" height="42" rx="7"/>
+      <rect x="835" y="103" width="42" height="42" rx="7" fill="#1c2b24"/>
+    </g>
+    <path d="M846 118H866M846 128H860" stroke="#b5c8b9" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Input two: a small command primitive. -->
+    <rect x="835" y="272" width="48" height="40" rx="7" fill="#18251f" stroke="#879e92" stroke-width="1.4"/>
+    <path d="m847 283 8 8-8 8m14 0h10" fill="none" stroke="#c1d7c8" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- The tool: a solid mint core with precise processor connections. -->
+    <g stroke="#8ceabd" stroke-width="1.5">
+      <path d="M931 170H921m10 18H921m10 18H921m10 18H921m10 18H921M1031 170h10m-10 18h10m-10 18h10m-10 18h10m-10 18h10M945 161v-10m18 10v-10m18 10v-10m18 10v-10m18 10v-10M945 251v10m18-10v10m18-10v10m18-10v10m18-10v10"/>
+      <rect x="931" y="161" width="100" height="90" rx="12" fill="#1b3429"/>
+    </g>
+    <rect x="944" y="174" width="74" height="64" rx="6" fill="#9cf4c7"/>
+    <g fill="none" stroke="#163426" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <path d="m963 194-11 12 11 12m36-24 11 12-11 12m-14-27-8 30"/>
+    </g>
+
+    <!-- Output one: a resolved artifact. -->
+    <rect x="1142" y="121" width="42" height="42" rx="9" fill="#1c342a" stroke="#94edc2" stroke-width="1.5"/>
+    <path d="m1153 142 7 7 13-14" fill="none" stroke="#a6f6ce" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Output two: a new idea. -->
+    <circle cx="1167" cy="291" r="20" fill="#302b20" stroke="#d8ae70" stroke-width="1.4"/>
+    <path d="M1167 280v22m-11-11h22m-18-7 14 14m0-14-14 14" stroke="#e7b873" stroke-width="1.5" stroke-linecap="round"/>
+
+    <!-- Nodes and fine structural details. -->
+    <circle cx="1029" cy="103" r="4" fill="#e7b873"/>
+    <circle cx="1099" cy="259" r="3" fill="#92ac9b"/>
+    <circle cx="941" cy="145" r="3" fill="#92ac9b"/>
+    <path d="M1174 82h14m-7-7v14M839 337h12m-6-6v12" stroke="#839c8d" stroke-opacity=".5" stroke-width="1"/>
+  </g>
+</svg>
