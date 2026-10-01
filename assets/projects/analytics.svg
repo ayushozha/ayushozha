@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-labelledby="title desc">
+<title id="title">Product analytics — data into insight</title><desc id="desc">Three data sources merge into a dashboard of rising mint columns and blue and mint chart lines. The chart is decorative and contains no reported metrics.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141c25"/><stop offset="1" stop-color="#080f15"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#223440"/><stop offset="1" stop-color="#111d28"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#caffdf"/><stop offset="1" stop-color="#63dcb9"/></linearGradient>
+<linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c2e3ff"/><stop offset="1" stop-color="#689bda"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#77cdcd" stop-opacity=".19"/><stop offset="1" stop-color="#77cdcd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7c8dd" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="800" height="280" rx="14" fill="url(#bg)"/>
+
+<ellipse cx="455" cy="147" rx="319" ry="168" fill="url(#aura)"/>
+<path d="M0 0h800v280H0z" fill="url(#grid)"/>
+<text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#b7cbd4">PRODUCT ANALYTICS</text>
+<g fill="url(#glass)" stroke="#567a8c"><rect x="53" y="88" width="81" height="35" rx="6"/><rect x="53" y="147" width="81" height="35" rx="6"/><rect x="53" y="206" width="81" height="35" rx="6"/></g>
+<path d="M68 101h51m-51 10h33m-33 49h51m-51 10h39m-39 49h51m-51 10h27" stroke="#92b4c6" stroke-width="3" stroke-linecap="round"/>
+<g fill="none" stroke="#719fa2" stroke-width="1.5"><path d="M134 105h37q13 0 13 13v43h44"/><path d="M134 164h94"/><path d="M134 223h37q13 0 13-13v-46"/></g>
+<circle cx="184" cy="164" r="4" fill="#b7f7d6"/>
+<rect x="228" y="61" width="489" height="188" rx="11" fill="#111e2a" stroke="#62879c"/>
+<path d="M250 95h445M250 134h445M250 173h445M250 212h445" stroke="#769bae" stroke-opacity=".18"/>
+<g fill="#284a3e"><rect x="266" y="165" width="34" height="58" rx="3"/><rect x="326" y="137" width="34" height="86" rx="3"/><rect x="386" y="152" width="34" height="71" rx="3"/><rect x="446" y="106" width="34" height="117" rx="3"/><rect x="506" y="117" width="34" height="106" rx="3"/><rect x="566" y="93" width="34" height="130" rx="3"/><rect x="626" y="74" width="34" height="149" rx="3"/></g>
+<path d="M283 172 343 156 403 167 463 121 523 133 583 97 643 84" fill="none" stroke="#b7f7d6" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M283 198 343 174 403 179 463 147 523 159 583 134 643 106" fill="none" stroke="#a8d0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#b7f7d6" stroke="#173226" stroke-width="2"><circle cx="283" cy="172" r="5"/><circle cx="343" cy="156" r="5"/><circle cx="403" cy="167" r="5"/><circle cx="463" cy="121" r="5"/><circle cx="523" cy="133" r="5"/><circle cx="583" cy="97" r="5"/><circle cx="643" cy="84" r="5"/></g>
+<rect x="602" y="61" width="68" height="20" rx="5" fill="#b7f7d6"/><path d="M615 71h9m7 0h26" stroke="#255241" stroke-width="2" stroke-linecap="round"/>
+<path d="M737 103h17m-17 17h10m-10 91h17m-17 17h10" stroke="#7093a6" stroke-width="2" stroke-linecap="round"/>
+
+</svg>

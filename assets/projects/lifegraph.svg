@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-labelledby="title desc">
+<title id="title">Connected life — a personal network</title><desc id="desc">A central mint heart connects to a large network of calendar, knowledge, work, and completed-task nodes with orbital paths.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141c25"/><stop offset="1" stop-color="#080f15"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#223440"/><stop offset="1" stop-color="#111d28"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#caffdf"/><stop offset="1" stop-color="#63dcb9"/></linearGradient>
+<linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c2e3ff"/><stop offset="1" stop-color="#689bda"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#77cdcd" stop-opacity=".19"/><stop offset="1" stop-color="#77cdcd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7c8dd" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="800" height="280" rx="14" fill="url(#bg)"/>
+
+<ellipse cx="400" cy="147" rx="304" ry="168" fill="url(#aura)"/>
+<text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#b7cbd4">CONNECTED LIFE</text>
+<g fill="none" stroke="#658e9b" stroke-width="1.3"><path d="M400 149 283 86 152 123 87 201M400 149 297 218 168 232 87 201M400 149 519 77 669 98 737 163M400 149 533 213 650 235 737 163M400 149 416 57M283 86 297 218M519 77 533 213M152 123 297 218M669 98 533 213"/><path d="M283 86 416 57 519 77M297 218 533 213M152 123 168 232M669 98 650 235" stroke-opacity=".4"/></g>
+<g fill="none" stroke="#a8d0ff" stroke-opacity=".2"><ellipse cx="400" cy="148" rx="215" ry="84" transform="rotate(-13 400 148)"/><ellipse cx="400" cy="148" rx="188" ry="107" transform="rotate(15 400 148)"/></g>
+<circle cx="400" cy="149" r="54" fill="#b7f7d6" fill-opacity=".06" stroke="#b7f7d6" stroke-opacity=".3"/>
+<circle cx="400" cy="149" r="39" fill="url(#mint)"/>
+<path d="M389 143c-10-14-24-3-18 8 4 8 16 15 29 24 13-9 25-16 29-24 6-11-8-22-18-8l-11 12z" fill="#173c31"/>
+<g fill="#172e36" stroke="#a8d0ff" stroke-width="1.5"><circle cx="283" cy="86" r="24"/><circle cx="519" cy="77" r="24"/><circle cx="297" cy="218" r="22"/><circle cx="533" cy="213" r="24"/></g>
+<g fill="#203d32" stroke="#94d8b7" stroke-width="1.2"><circle cx="152" cy="123" r="16"/><circle cx="168" cy="232" r="12"/><circle cx="416" cy="57" r="12"/><circle cx="669" cy="98" r="16"/><circle cx="650" cy="235" r="12"/></g>
+<g fill="#a8d0ff"><circle cx="87" cy="201" r="5"/><circle cx="737" cy="163" r="5"/></g>
+<g stroke="#c5e2f2" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M274 79h18v14h-18zm5-4v8m8-8v8m-13 3h18"/><path d="M508 86V69l11 7 11-7v17"/><path d="m287 219 6 6 14-15"/><path d="M523 205h20v16h-20zm4-4h12"/></g>
+<path d="M145 123h14m-7-7v14m510-25 7-7 7 7m-7-7v14" fill="none" stroke="#b7f7d6" stroke-width="1.5" stroke-linecap="round"/>
+
+</svg>

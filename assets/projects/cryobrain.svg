@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-labelledby="title desc">
+<title id="title">Quantum experiments — a qubit lattice</title><desc id="desc">An isometric quantum hardware package. A luminous mint lattice of nine qubit nodes is connected to fine icy-blue control lines.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141c25"/><stop offset="1" stop-color="#080f15"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#223440"/><stop offset="1" stop-color="#111d28"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#caffdf"/><stop offset="1" stop-color="#63dcb9"/></linearGradient>
+<linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c2e3ff"/><stop offset="1" stop-color="#689bda"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#77cdcd" stop-opacity=".19"/><stop offset="1" stop-color="#77cdcd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7c8dd" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="800" height="280" rx="14" fill="url(#bg)"/>
+
+<ellipse cx="400" cy="158" rx="296" ry="160" fill="url(#aura)"/>
+<path d="M0 0h800v280H0z" fill="url(#grid)"/>
+<text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#b7cbd4">QUANTUM EXPERIMENTS</text>
+<g fill="none" stroke="#628da5" stroke-width="1.3"><path d="M88 97h99l56 38h58M88 150h103l52 18h58M88 218h99l56-20h58M712 97h-99l-56 38h-58M712 150H609l-52 18h-58M712 218h-99l-56-20h-58"/><path d="M129 77v38m-10-29h20m-20 9h20M671 77v38m-10-29h20m-20 9h20M129 198v38m-10-29h20m-20 9h20M671 198v38m-10-29h20m-20 9h20"/></g>
+<path d="m264 120 137-68 137 68-137 70z" fill="#1a3341" stroke="#87b4ce" stroke-width="1.5"/>
+<path d="m264 120 137 70 137-70v88l-137 70-137-70z" fill="#102632" stroke="#87b4ce" stroke-width="1.4"/>
+<path d="m264 120 137 70v88m137-158-137 70" fill="none" stroke="#a8d0ff" stroke-width="1.4"/>
+<path d="m288 121 113-56 113 56-113 57z" fill="#102c28" stroke="#b7f7d6" stroke-width="1.4"/>
+<g fill="none" stroke="#7ba88f" stroke-width="1.3"><path d="m316 106 113 57m-84-71 113 57m-85-71 113 57m-170 0 113-57m-84 71 113-57m-85 71 113-57"/></g>
+<g fill="#b7f7d6" stroke="#1e4a36" stroke-width="2"><circle cx="373" cy="106" r="6"/><circle cx="401" cy="120" r="6"/><circle cx="429" cy="106" r="6"/><circle cx="344" cy="121" r="6"/><circle cx="373" cy="135" r="6"/><circle cx="429" cy="135" r="6"/><circle cx="458" cy="121" r="6"/><circle cx="401" cy="150" r="6"/><circle cx="401" cy="92" r="6"/></g>
+<g stroke="#6f9ab5" stroke-width="1.2"><path d="M288 148v61m23-49v61m23-50v61m23-49v61m23-49v61M424 179v61m23-72v61m23-72v61m23-72v61m23-72v61"/></g>
+<g fill="#a8d0ff"><circle cx="88" cy="97" r="4"/><circle cx="88" cy="150" r="4"/><circle cx="88" cy="218" r="4"/><circle cx="712" cy="97" r="4"/><circle cx="712" cy="150" r="4"/><circle cx="712" cy="218" r="4"/></g>
+<path d="M585 63v24m-12-12h24m-21-9 18 18m0-18-18 18" stroke="#a8d0ff" stroke-width="1.2"/>
+
+</svg>

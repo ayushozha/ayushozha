@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="280" viewBox="0 0 800 280" role="img" aria-labelledby="title desc">
+<title id="title">Spatial experiments — a wireframe arena</title><desc id="desc">An isometric wireframe arena with a luminous central cube, two blue towers, and two player markers on a perspective grid.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#141c25"/><stop offset="1" stop-color="#080f15"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#223440"/><stop offset="1" stop-color="#111d28"/></linearGradient>
+<linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#caffdf"/><stop offset="1" stop-color="#63dcb9"/></linearGradient>
+<linearGradient id="ice" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c2e3ff"/><stop offset="1" stop-color="#689bda"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#77cdcd" stop-opacity=".19"/><stop offset="1" stop-color="#77cdcd" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#a7c8dd" stroke-opacity=".055"/></pattern>
+</defs>
+<rect width="800" height="280" rx="14" fill="url(#bg)"/>
+
+<ellipse cx="400" cy="189" rx="300" ry="161" fill="url(#aura)"/>
+<text x="32" y="37" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#b7cbd4">SPATIAL EXPERIMENTS</text>
+<g fill="none" stroke="#557f98" stroke-opacity=".4"><path d="M72 249 400 67 728 249M130 249 400 67 670 249M205 249 400 67 595 249M291 249 400 67 509 249M400 67v182"/><path d="M185 187h430M149 208h502M112 229h576M72 249h656M239 158h322M293 129h214M347 100h106"/></g>
+<path d="m219 157 181-86 181 86-181 89z" fill="#173127" fill-opacity=".55" stroke="#b7f7d6" stroke-width="1.6"/>
+<path d="m219 157 181 89 181-89v23l-181 89-181-89z" fill="#123329" stroke="#7ebca4" stroke-width="1.3"/>
+<path d="M400 246v23M279 186v23M339 216v24M461 216v24M521 186v24" stroke="#669884" stroke-width="1.2"/>
+<g fill="none" stroke="#b7f7d6" stroke-width="1.5"><path d="m325 130 75-38 75 38-75 38zM325 130v61l75 39 75-39v-61M400 168v62"/><path d="M325 160 400 199 475 160M362 111v61l76 40M438 111v61l-76 40" stroke-opacity=".35"/></g>
+<path d="m400 92 75 38-75 38-75-38z" fill="url(#mint)" fill-opacity=".09"/>
+<g fill="url(#glass)" stroke="#a8d0ff" stroke-width="1.4"><path d="m166 151 22-11 22 11v62l-22 12-22-12z"/><path d="m590 151 22-11 22 11v62l-22 12-22-12z"/></g>
+<path d="m166 151 22 12 22-12m-22 12v62m402-74 22 12 22-12m-22 12v62" fill="none" stroke="#a8d0ff" stroke-width="1.2"/>
+<ellipse cx="283" cy="172" rx="18" ry="8" fill="#8be0c2" fill-opacity=".2" stroke="#b7f7d6"/><path d="m283 157-7 14h14z" fill="#b7f7d6"/>
+<ellipse cx="518" cy="174" rx="18" ry="8" fill="#8ac1f2" fill-opacity=".2" stroke="#a8d0ff"/><path d="m518 159-7 14h14z" fill="#a8d0ff"/>
+<path d="M400 55v14M393 62h14" stroke="#a8d0ff" stroke-width="1.5"/>
+<circle cx="400" cy="92" r="4" fill="#b7f7d6"/>
+
+</svg>
