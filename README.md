@@ -17,7 +17,7 @@ I’m a product builder who writes the code, too. I build AI systems and develop
 <tr>
 <td width="50%" valign="top">
 <sub>01 / CREATIVE TOOLS</sub>
-<h3><a href="https://github.com/ayushozha/AdobePremiereProMCP">AdobePremiereProMCP ↗</a></h3>
+<h3><a href="https://github.com/ayushozha/AdobePremiereProMCP">Premiere Pro MCP ↗</a></h3>
 <p>An open-source bridge between AI assistants and Adobe Premiere Pro, for supported editing workflows.</p>
 <p><code>Go</code> <code>Rust</code> <code>Python</code> <code>TypeScript</code></p>
 <a href="https://github.com/ayushozha/AdobePremiereProMCP/stargazers"><img src="https://img.shields.io/github/stars/ayushozha/AdobePremiereProMCP?style=flat&label=GitHub%20stars&color=86d7b2&labelColor=26332d" alt="AdobePremiereProMCP GitHub stars" /></a>
